@@ -1,0 +1,5 @@
+<resources>
+    <!-- All strings stored here so that everything is localized -->
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_text">Hello My Name is Ken Crawford This is Localized</string>
+</resources>
